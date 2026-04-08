@@ -1,0 +1,9 @@
+﻿Marisa Thaingam
+Task 8: Checking whether (Z9*, multiplication mod 9) is a group
+Z9* = [1, 2, 4, 5, 7, 8]
+Binary operation: True
+Associative: True
+Identity element: 1
+Every element has an inverse: True
+Inverses: {1: 1, 2: 5, 4: 7, 5: 2, 7: 4, 8: 8}
+Conclusion: (Z9*, multiplication mod 9) is a group = True

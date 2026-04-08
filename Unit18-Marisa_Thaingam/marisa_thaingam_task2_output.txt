@@ -1,0 +1,22 @@
+﻿Marisa Thaingam
+Task 2(c): Validation of the Boolean expression
+  p    q    r    s    original   simplified   same  
+-----------------------------------------------------------
+  0    0    0    0      True        True      True  
+  0    0    0    1      True        True      True  
+  0    0    1    0      True        True      True  
+  0    0    1    1      True        True      True  
+  0    1    0    0      True        True      True  
+  0    1    0    1      True        True      True  
+  0    1    1    0      True        True      True  
+  0    1    1    1      True        True      True  
+  1    0    0    0      True        True      True  
+  1    0    0    1      True        True      True  
+  1    0    1    0      True        True      True  
+  1    0    1    1      True        True      True  
+  1    1    0    0     False       False      True  
+  1    1    0    1      True        True      True  
+  1    1    1    0      True        True      True  
+  1    1    1    1      True        True      True  
+
+Equivalent in all cases: True
